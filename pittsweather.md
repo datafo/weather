@@ -1,5 +1,5 @@
 ## The weather condition of Pittsburgh from Feb to March. 
-The data is record in [The Weather Channel](https://weather.com/weather/monthly/l/Pittsburgh+PA?canonicalCityId=c2be8b1617461b93a755108c3c88493a5a38a4c023045792ffaeff9c4c7fc422).
+The data records in [The Weather Channel](https://weather.com/weather/monthly/l/Pittsburgh+PA?canonicalCityId=c2be8b1617461b93a755108c3c88493a5a38a4c023045792ffaeff9c4c7fc422).
 
 |Month|date| highest_temp | lowest_temp|precip_prob|description
 -------|---- | ----|---|------|-------|
